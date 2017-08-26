@@ -102,3 +102,6 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/node,angular,visualstudiocode
+
+/src/*.js
+/src/*.map
